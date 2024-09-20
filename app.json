@@ -20,7 +20,7 @@
     "env": {
         "ENV": {
             "description": "Set this to True if you don't want to crash the bot",
-            "value": "True"
+            "value": "false"
         },
         "APP_NAME": {
             "description": "Copy-Paste the app name that you just typed above."
